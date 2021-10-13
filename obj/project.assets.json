@@ -4225,11 +4225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Qamar Riaz\\source\\repos\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\Qamar Riaz\\Documents\\GitHub\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
       "projectName": "SeleniumCSharpNetCore",
-      "projectPath": "C:\\Users\\Qamar Riaz\\source\\repos\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+      "projectPath": "C:\\Users\\Qamar Riaz\\Documents\\GitHub\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
       "packagesPath": "C:\\Users\\Qamar Riaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Qamar Riaz\\source\\repos\\SeleniumCSharpNetCore\\obj\\",
+      "outputPath": "C:\\Users\\Qamar Riaz\\Documents\\GitHub\\SeleniumCSharpNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
