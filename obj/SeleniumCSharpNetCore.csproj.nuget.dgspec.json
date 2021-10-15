@@ -56,6 +56,10 @@
               "target": "Package",
               "version": "[3.17.0, )"
             },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.0.0, )"
@@ -63,6 +67,26 @@
             "Selenium.WebDriver.ChromeDriver": {
               "target": "Package",
               "version": "[94.0.4606.6100, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.22, )"
+            },
+            "SpecFlow.Assist.Dynamic": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.22, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.57, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.9.22, )"
             },
             "coverlet.collector": {
               "target": "Package",

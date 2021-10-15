@@ -5,8 +5,14 @@ using System.Text;
 
 namespace SeleniumCSharpNetCore.Pages
 {
-    public class LoginPage: DriverHelper
+    public class LoginPage
     {
+        private IWebDriver driver;
+
+        public LoginPage(IWebDriver driver)
+        {
+            this.driver = driver;
+        }
 
         IWebElement txtUserName => driver.FindElement(By.Id("UserName"));
         IWebElement txtPassword => driver.FindElement(By.Id("Password"));
